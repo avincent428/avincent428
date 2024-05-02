@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [NTFS File Recovery Tool](https://github.com/avincent428/ntfs-file-recovery-tool)\
 [Secure E-Commerce Website](https://github.com/avincent428/secure-ecommerce-website)
 
+## Software Development Projects
 
 ## In Progress
 [Buffer Overflow Lab](https://github.com/avincent428/buffer-overflow-lab)\
