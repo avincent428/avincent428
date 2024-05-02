@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Objective
+My journey in computer science has led me to develop a passion for cyber security, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst
 
 ## Cybersecurity Projects
 [NTFS File Recovery Tool](https://github.com/avincent428/ntfs-file-recovery-tool)\
