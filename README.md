@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for cyber securit
 [Secure E-Commerce Website](https://github.com/avincent428/secure-ecommerce-website)
 
 ## Software Development Projects
-[Althea](google.com)\
-[Ayur](google.com)\
+[Althea](google.com)\: AI-based therapy solution for BDD patients.
+Ayur: Automated content creation for TikTok creators. (Contact me to request more info.)
 [Placeholder](google.com)\
-[Online Library Historian](google.com)
+[Online Library Historian](google.com) - Web-based library organization system.
