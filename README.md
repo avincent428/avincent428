@@ -6,10 +6,10 @@ My journey in computer science has led me to develop a passion for cyber securit
 
 ## Cybersecurity Projects
 [NTFS File Recovery Tool](https://github.com/avincent428/ntfs-file-recovery-tool)\
-[Secure E-Commerce Website](https://github.com/avincent428/secure-ecommerce-website)
+[Secure E-Commerce Website](https://github.com/avincent428/secure-ecommerce-website)\
 
 ## Software Development Projects
-[Althea](google.com)
-[Ayur](google.com)
-[Placeholder](google.com)
-[Online Library Historian](google.com)
+[Althea](google.com)\
+[Ayur](google.com)\
+[Placeholder](google.com)\
+[Online Library Historian](google.com)\
