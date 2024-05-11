@@ -12,4 +12,4 @@ My journey in computer science has led me to develop a passion for cyber securit
 [Althea](google.com) - AI-based therapy solution for BDD-diagnosed patients.\
 Ayur - Automated content creation for TikTok creators. (Contact me to request more info.)
 [SPOF Analysis Tool](google.com)\
-[Online Library Historian](google.com) - Web-based library organization system.
+Online Library Historian ([Front-end](https://github.com/avincent428/library-frontend) | [Back-end](https://github.com/avincent428/library-backend))- Web-based library organization system.
