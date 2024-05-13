@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a passion for cyber securit
 [Secure E-Commerce Website](https://github.com/avincent428/secure-ecommerce-website) - Application security implementation for E-commerce websites.\
 
 ## Software Development Projects
-Althea - AI-based therapy solution for BDD-diagnosed patients.\
+[Althea](https://docs.google.com/document/d/1fRQl2L6SKTFYXC6ydL3I4wfIzsfvXXVo_1tvQt8D3oM/edit?usp=sharing) - AI-based therapy solution for BDD-diagnosed patients.\
 Ayur - Automated content creation for TikTok creators. (Contact me to request more info.)\
 SPOF Analysis Tool
 Online Library Historian ([Front-end](https://github.com/avincent428/library-frontend) | [Back-end](https://github.com/avincent428/library-backend))- Web-based library organization system.
